@@ -1,2 +1,2 @@
 # exercicios javascript
- um lote de exercicios resolvidos na mesma pagina sobre javascript
+ Um lote de exercicios resolvidos na mesma pagina sobre javascript
